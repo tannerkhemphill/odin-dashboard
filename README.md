@@ -1,1 +1,1 @@
-# odin-dashboard
+This project is designed to practice some intermediate HTML and CSS design features such as grid.
